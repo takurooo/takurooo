@@ -1,7 +1,25 @@
 ### Hi there 👋
 
-![takurooo's github stats](https://github-readme-stats.vercel.app/api?username=takurooo&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takurooo&theme=vue-dark)
+:octocat: My recently updated repositories.
+- :musical_note: [Go - reader/writer for Wave file](https://github.com/takurooo/wavgo)
+- :cactus: [Python - downloader for ImageNet](https://github.com/takurooo/Python-ImageNet_Downloader)
+- :eyeglasses: [Python - viewer for EXIF file](https://github.com/takurooo/ExifViewer)
+- :maple_leaf: [Python - reader for HEIF file](https://github.com/takurooo/heif)  
+...
+
+:ledger: Blog
+- 🌱  [Qiita-takurooo](https://qiita.com/takurooo)
+- 🔭  [HatenaBlog-takuroooのブログ](https://takuroooooo.hatenablog.com/)
+
+
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=takurooo&count_private=true&show_icons=true&theme=vue" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takurooo&theme=vue&hide=html" />
+</a>
+-->
 
 
 <!--
