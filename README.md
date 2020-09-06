@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:octocat: My recently updated repositories.
+:octocat: My repositories.
 - :musical_note: [Go - reader/writer for Wave file](https://github.com/takurooo/wavgo)
 - :cactus: [Python - downloader for ImageNet](https://github.com/takurooo/Python-ImageNet_Downloader)
 - :eyeglasses: [Python - viewer for EXIF file](https://github.com/takurooo/ExifViewer)
