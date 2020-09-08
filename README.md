@@ -1,5 +1,3 @@
-### Hi there 👋
-
 :octocat: My repositories.
 - :musical_note: [Go - reader/writer for Wave file](https://github.com/takurooo/wavgo)
 - :cactus: [Python - downloader for ImageNet](https://github.com/takurooo/Python-ImageNet_Downloader)
