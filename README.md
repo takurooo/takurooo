@@ -5,10 +5,6 @@
 - :maple_leaf: [Python - reader for HEIF file](https://github.com/takurooo/heif)  
 ...
 
-:ledger: Blog
-- 🌱  [Qiita-takurooo](https://qiita.com/takurooo)
-- 🔭  [HatenaBlog-takuroooのブログ](https://takuroooooo.hatenablog.com/)
-
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
